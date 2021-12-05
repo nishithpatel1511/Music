@@ -2,24 +2,24 @@
     "contacts":[
         {
             "id":"a",
-            "First name":"Nyasa",
-            "Last name":"Patel",
-            "Phone no":"1234567890",
-            "Address": "Visnagar"
+            "First_name":"Nyasa",
+            "Last_name":"Patel",
+            "Phone_no":"1234567890",
+            "address": "Visnagar"
         },
         {
             "id":"b",
             "First name":"Pearl",
             "Last name":"Patel",
             "Phone no":"1234567890",
-            "Address": "Vijapur"
+            "address": "Vijapur"
         },
         {
             "id":"c",
-            "First name":"Nishith",
-            "Last name":"Patel",
-            "Phone no":"1234567890",
-            "Address": "Ransipur"
+            "First_name":"Nishith",
+            "Last_name":"Patel",
+            "Phone_no":"1234567890",
+            "address": "Ransipur"
         }
     ]
 }
