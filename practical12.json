@@ -1,0 +1,23 @@
+{
+    "1":{
+        "id":"a",
+        "First name":"Nyasa",
+        "Last name":"Patel",
+        "Phone no":"1234567890",
+        "Address": "Visnagar"
+    },
+    "2":{
+        "id":"b",
+        "First name":"Pearl",
+        "Last name":"Patel",
+        "Phone no":"1234567890",
+        "Address": "Vijapur"
+    },
+    "3":{
+        "id":"c",
+        "First name":"Nishith",
+        "Last name":"Patel",
+        "Phone no":"1234567890",
+        "Address": "Ransipur"
+    }
+}
