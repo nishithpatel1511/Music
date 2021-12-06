@@ -1,5 +1,4 @@
-{
-    "contacts":[
+[
         {
             "id":"a",
             "First name":"Nyasa",
@@ -18,5 +17,4 @@
             "phone no":"1234567890",
             "Branch": "Computer"
         }
-    ]
-}
+]
