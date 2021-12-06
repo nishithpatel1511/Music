@@ -1,20 +1,28 @@
-
-        {
-            "id":"a",
-            "First name":"Nyasa",
-            "phone no":"1234567890",
-            "Branch": "Computer"
-        },
-        {
-            "id":"b",
-            "First name":"Pearl",
-            "phone no":"1234567890",
-            "Branch": "Computer"
-        },
-        {
-            "id":"c",
-            "First name":"Nishith",
-            "phone no":"1234567890",
-            "Branch": "Computer"
-        }
-
+{
+        "info":[
+                {
+                        "id":1,
+                        "Branch":"CE",
+                        "Phone no":987654563,
+                        "First name":"Hello"
+                },
+                {
+                        "id":2,
+                        "Branch":"IT",
+                        "Phone no":123445385,
+                        "First name":"World"
+                },
+                {
+                        "id":3,
+                        "Branch":"IT",
+                        "Phone no":5647384394,
+                        "First name":"OK"
+                },
+                {
+                        "id":4,
+                        "Branch":"CE",
+                        "Phone no":123459876,
+                        "First name":"Helloworld"
+                }
+        ]
+}
